@@ -23,5 +23,5 @@
 ---
 
 ## Инструменты и технологии
-- Python (pandas, numpy, matplotlib, seaborn)  
+- Python (pandas, matplotlib)  
 - Jupyter Notebook  
