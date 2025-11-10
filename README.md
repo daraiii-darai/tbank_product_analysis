@@ -22,6 +22,11 @@
 
 ---
 
+Ссылка на дашборд в Tableau Public: https://public.tableau.com/app/profile/daria.zavialova/viz/_17627678323300/Dashboard1?publish=yes
+
+---
+
 ## Инструменты и технологии
 - Python (pandas, matplotlib)  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Tableau 
