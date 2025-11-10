@@ -6,6 +6,8 @@
 
 Цель исследования — провести исследовательский анализ поездок на самокатах Т-Банк за сезон 2024 года и создать дашборд в Tableau по итогам исследования.
 
+<img width="1882" height="965" alt="bank_dashboard" src="https://github.com/user-attachments/assets/6bafa664-2e76-46d4-ade0-48a68d6deade" />
+
 ---
 
 ## Описание данных
